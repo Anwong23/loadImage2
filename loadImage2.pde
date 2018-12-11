@@ -22,7 +22,7 @@ void draw() {
 
 textSize(40);
 fill(random(255),255,0);
-{text("This is a Fried Chicken!!!",x-100,80);}
+text("This is a Fried Chicken!!!",x-100,80);
 
  x=x +s;
   
